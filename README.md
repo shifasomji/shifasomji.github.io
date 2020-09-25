@@ -1,1 +1,1 @@
-### Personal website in progress
+Personal website in progress. Mainly intended as a side project
