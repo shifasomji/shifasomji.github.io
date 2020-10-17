@@ -6,7 +6,7 @@ hr{max-width:50px;border-width:3px;border-color:#f05f40}
 
 hr.light{border-color:#fff}
 
-a{color:#f05f40;-webkit-transition:all .2s;-moz-transition:all .2s;transition:all .2s}
+a{color:#212529;-webkit-transition:all .2s;-moz-transition:all .2s;transition:all .2s}
 
 a:hover{color:#f05f40}
 
