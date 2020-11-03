@@ -15,7 +15,7 @@
     font-size: 97%;
   }
   
-  /* Removing the bottom margin in the Languages and Skills area */
+  /* Removing the bottom margin in the Skills area */
   #about > div > div:nth-child(2) > div:nth-child(3) > p.text-faded.no-margin {
       margin-bottom: 0;
   }
