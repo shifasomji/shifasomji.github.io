@@ -108,7 +108,7 @@
       background-color: #262626 !important;
   }
   .btn-black:active, .btn-black:focus {
-      box-shadow:0 0 0 .2rem rgba(240,95,64,.5)!important;
+      box-shadow:0 0 0 .2rem #00a89d !important;
   }
   
   /* Black hrefs & hrs too */
