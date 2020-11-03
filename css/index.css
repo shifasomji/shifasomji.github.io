@@ -28,6 +28,11 @@
     border-bottom: 1px solid currentColor;
   }
 
+  .text-black {
+    color: black;
+    border-bottom: 1px solid currentColor;
+  }
+
   .text-white-link {
     color: white;
     border-bottom: 1px solid currentColor;
@@ -94,8 +99,6 @@
       background-color: #1DB954 !important;
   }
   
-  /* Black button to go with the Spotify Green. The active/focus/etc stuff is for when you
-     hover / click on the button. */
   .btn-black {
       color: #fff;
       background-color: #000000 !important;
