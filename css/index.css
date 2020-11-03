@@ -30,7 +30,6 @@
 
   .text-black {
     color: black;
-    border-bottom: 1px solid currentColor;
   }
 
   .text-white-link {
